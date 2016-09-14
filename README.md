@@ -25,7 +25,7 @@ which unstages all of the changes you've staged for commit.
 If you want to create a new branch, use `checkout`:
 
 ```
-git checkout -b new-branch-name
+git checkout -b new-branch
 ```
 
 If we make a change to a new branch, say `new-branch`, we can push those to the server as well:
