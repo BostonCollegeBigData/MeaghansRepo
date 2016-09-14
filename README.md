@@ -20,4 +20,10 @@ which shows you all of the changes made in the current directory since the last 
 ```
 git reset
 ```
-which unstages all of the changes you've staged for commit
+which unstages all of the changes you've staged for commit.
+
+If you want to create a new branch, use `checkout`:
+
+```
+git checkout -b new-branch-name
+```
