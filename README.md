@@ -15,7 +15,7 @@ which commits all of the changes staged for commit to the repository
 ```
 git status
 ```
-which shows you all of the changes made in the current directory since the last commit
+which shows you all of the changes made in the current directory since the last commit. `git status` will also tell you what the current branch is. This branch is `master`.
 
 ```
 git reset
